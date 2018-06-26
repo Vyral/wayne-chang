@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Laguna Niguel Real Estate Video Blog with Wayne Chang
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,41 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Wayne Chang
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    As founder of Wayne Chang and Associates, Wayne sets the tone for quality and professionalism in all aspects of daily business from client relations to business strategy. Wayne graduated from BYU Provo in 2006 with a BS in accounting and subsequently obtained his CPA license prior to pursuing a full-time profession as a real estate broker. Having completed over 400 transactions totaling over $200 million in volume, Wayne is able to offer his clients the best business, finance, and marketing strategies at all times.
+  market: Laguna Niguel
+  brand: Wayne Chang Real Estate Advisory
   brokerage:
-  address:
-  phone:
+  address: 23807 Aliso Creek Rd Suite 100<br>Laguna Niguel, CA 92677
+  phone: 949-429-4419
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Wayne@WayneChangHomes.com
+  url: https://www.WayneChangHomes.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://www.waynechanghomes.com/selling
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.waynechanghomes.com/search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://www.waynechanghomes.com/selling
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.waynechanghomes.com/search
 
 lender:
   show_section: false
@@ -57,14 +57,14 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/waynechanghomes/
   linkedin_url:
   gplus_url:
   youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.facebook.com/waynechanghomes/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -100,7 +100,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
