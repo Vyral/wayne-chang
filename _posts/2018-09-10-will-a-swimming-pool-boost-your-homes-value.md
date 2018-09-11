@@ -19,11 +19,11 @@ youtube_code: 7lrEj76jgLU
 
 {% include youtube.html %}
 
-After speaking with many clients over the years about the value that pools can add to one’s home, buyers tend to fall into three categories:
+After speaking with many clients over the years about the value that pools can add to a home, buyers tend to fall into three categories:
 
-**1. Buyers that really want a pool.** It could be these buyers have teen children who like to have parties; whatever the case, these buyers will pay a little extra for a pool.
+**1. Buyers that really want a pool.** These buyers could have children or teenagers and want to have a pool for them to use or they simply just like the aesthetics. Whatever the reason, these buyers will pay a little extra for a pool.
 
-**2. Buyers who absolutely don’t want a pool.** This kind of buyer could be retired, or they may simply not want the hassle of maintaining a pool. For them, your home’s price doesn’t matter, since it comes down to whether or not they want that pool. They won’t pay extra for it, and they may not buy the home at all.
+**2. Buyers who absolutely don’t want a pool.** This type of buyer may simply not want the hassle of maintaining a pool or they may have young children and are concerned about safety. These buyers won’t pay extra for a pool and may actually not buy the home at all if you have one.
 
 **3. Buyers who don’t care either way.** If the home has a pool, great! If it doesn’t, then that’s fine too. These buyers won’t alter their offers to accommodate a pool’s value.
 
