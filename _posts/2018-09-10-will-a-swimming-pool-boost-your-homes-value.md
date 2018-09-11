@@ -25,6 +25,6 @@ After speaking with many clients over the years about the value that pools can a
 
 **2. Buyers who absolutely don’t want a pool.** This kind of buyer could be retired, or they may simply not want the hassle of maintaining a pool. For them, your home’s price doesn’t matter, since it comes down to whether or not they want that pool. They won’t pay extra for it, and they may not buy the home at all.
 
-**3. Buyers who don’t care either way.** If the home hasa pool, great! If it doesn’t, then that’s fine too. These buyers won’t alter their offers to accommodate a pool’s value.
+**3. Buyers who don’t care either way.** If the home has a pool, great! If it doesn’t, then that’s fine too. These buyers won’t alter their offers to accommodate a pool’s value.
 
 If you have any questions about features that add value to your home or about anything real estate-related, please reach out to me. I’ll be happy to answer your questions for you.
