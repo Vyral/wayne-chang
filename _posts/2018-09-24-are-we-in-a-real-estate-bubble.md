@@ -20,15 +20,15 @@ youtube_code: EUK-sj-MkdA
 
 During the last real estate bubble in 2006, there were a lot of things that happened to encourage the problem. Today I want to take a look at three of these things to put your mind at ease that we aren't in a real estate bubble again.
 
-1. **Stated income loans existed.** Back in 2006, many people who shouldn't have qualified for a loan got one based purely off their bank statements and what they chose to state for their income. While they were only making $50,000 to $60,000 a year, they were buying homes that were much out of their price range at $800,000 or $900,000.
+**1. Stated income loans existed.** Back in 2006, many people who shouldn't have qualified for a loan got one based purely off their bank statements and what they chose to state for their income. While they were only making $50,000 to $60,000 a year, they were buying homes that were far out of their price range at $800,000 or $900,000.
 
-2. **Appraisers weren't independent from their lenders.** Even though the home prices were inflated, lenders would make sure that appraisals came in at the purchase price. Now, though, they are completely independent to avoid this issue.
+**2. Appraisers weren't independent of their lenders.** Even though the home prices were inflated, lenders would make sure that appraisals came in at the purchase price. Now, though, they are completely independent to avoid this issue.
 
-3. **Investors were buying at record rates.** In 2006 there were people scrambling to buy whatever property they could pick up. These days it has definitely slowed.
-
-Usually a real estate market is about 10 to 12 years from peak to peak. What we saw in 2006 was the height of the market before it started going down to the bottom in 2011 and 2012. What we are experiencing now is a regular market correction.
+**3. Investors were buying at record rates.** In 2006 there were people scrambling to buy whatever property they could pick up. These days it has definitely slowed.
 
 {% include pullquote.html %}
+
+Usually a real estate market is about 10 to 12 years from peak to peak. What we saw in 2006 was the height of the market before it started going down to the bottom in 2011 and 2012. What we are experiencing now is a regular market correction.
 
 Inventory is about 20% higher than it was last year so there is some slowdown. Also, interest rates have increased causing further slowdown. However, it's not a real estate bubble like we saw in 2006 because people buying homes are actually able to afford them and appraisals are independent.
 
