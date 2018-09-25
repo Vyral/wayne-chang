@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We in a Real Estate Bubble?
-date: 2018-09-24 18:37:56
+date: 2018-09-24 18:37:00
 tags:
   - Market Update
   - Real Estate
@@ -12,7 +12,7 @@ pullquote: What we are experiencing now is a regular market correction.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/9-24---wayne-chang---yt.jpg
 youtube_code: EUK-sj-MkdA
 ---
 
