@@ -32,4 +32,4 @@ Usually a real estate market is about 10 to 12 years from peak to peak. What we 
 
 Inventory is about 20% higher than it was last year so there is some slowdown. Also, interest rates have increased causing further slowdown. However, it's not a real estate bubble like we saw in 2006 because people buying homes are actually able to afford them and appraisals are independent.
 
-If you have any additional questions about how our market, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+If you have any additional questions about our market, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
