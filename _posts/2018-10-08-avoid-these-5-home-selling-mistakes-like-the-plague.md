@@ -21,7 +21,7 @@ youtube_code: SEyZJ0zPJLo
 
 {% include youtube.html %}
 
-*Home sellers need to take care to avoid these five listing mistakes if they want to get the biggest bang for their buck from their listing.*
+<p style= "text-align: center;"><em>Home sellers need to take care to avoid these five listing mistakes if they want to get the biggest bang for their buck from their listing.</em></p>
 
 Homeowners—if you want your next home sale to go smoothly, these are the top five mistakes that you need to avoid:
 
