@@ -21,9 +21,9 @@ youtube_code: SEyZJ0zPJLo
 
 {% include youtube.html %}
 
-<p style= "text-align: center;"><em>Home sellers need to take care to avoid these five listing mistakes if they want to get the biggest bang for their buck from their listing.</em></p>
+*Home sellers need to take care to avoid these five listing mistakes if they want to get the biggest bang for their buck from their listing.*
 
-Homeowners, if you want your next home sale to go smoothly, be sure to check out my list of the top five mistakes you should avoid when it comes to your transaction:
+Homeowners—if you want your next home sale to go smoothly, these are the top five mistakes that you need to avoid:
 
 **1. Overpricing your home.** Especially during this time of year, when the market is a little slower, be very careful not to overprice your home, or you risk losing out on a ton of buyers. An inappropriate price tag on your listing can cause buyers to simply pass over your listing. A home priced at or a little under market value will generate a lot more interest, possibly even creating a bidding war. An overpriced home will likely sit on the market for a long time until you undergo rounds of price reductions.
 
