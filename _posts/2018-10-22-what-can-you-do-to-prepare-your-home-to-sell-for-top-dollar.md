@@ -19,6 +19,8 @@ youtube_code: k3F8ezuwQkc
 
 {% include youtube.html %}
 
+<p style="text-align:center;"><em>Expensive home upgrades aren’t the best way to prepare your home for sale. Here’s what I recommend.</em></p>
+
 A lot of my clients ask me for advice on how to get their home ready for sale before listing it on the market. Today I’m going to discuss the best way to maximize your home’s value without spending a ton of money.
 
 **When it comes to making upgrades and improvements on your home, I don’t typically recommend them.** If you spend a dollar on improvements, you will only get 50 cents back if you’re lucky. If you’re thinking about remodeling the kitchen or bathrooms, it’s typically not a good idea unless your home is in really bad shape.
