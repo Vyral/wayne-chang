@@ -33,4 +33,4 @@ Our inventory is 47% higher than this time last year—a significant increase. D
 
 Fortunately, **it seems the inventory level has reached a plateau.** We usually see this in August and September, but it came a little later this year. For sellers, the levels will hopefully begin to decrease soon.
 
-If have any video topics you’d like me to cover in the future, contact me. Also, feel free to reach out if you have any real estate needs, have any questions, or would simply like some more information. I’d be happy to help you. Have a happy Thanksgiving!
+If you have any video topics you’d like me to cover in the future, contact me. Also, feel free to reach out if you have any real estate needs, have any questions, or would simply like some more information. I’d be happy to help you. Have a happy Thanksgiving!
