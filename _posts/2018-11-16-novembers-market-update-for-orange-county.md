@@ -1,7 +1,7 @@
 ---
 layout: post
-title: November’s Market Update for South Orange County
-date: 2018-11-16 19:36:34
+title: November’s Market Update for Orange County
+date: 2018-11-16 19:36:00
 tags:
   - Market Update
 excerpt: >-
