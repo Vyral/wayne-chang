@@ -19,7 +19,7 @@ youtube_code: 8u3g3GVCLJs
 
 {% include youtube.html %}
 
-Before I begin today’s topic, I wanted to announce that I’m currently holding five $100 Visa gift cards, which I give out every year during Christmas to help those who are in need. If you know anyone going through difficult times who could benefit from one of these cards, reach out to me with their name and mailing address, and I will anonymously send them a gift card that reads something like, “Merry Christmas! Somebody you know thought about you this year. Here’s a $100 Visa gift card—hope you can spend it!” The first five people who request a card will get one, and once they’re gone, they’re gone, so act fast!
+*Before I begin today’s topic, I wanted to announce that I’m currently holding five $100 Visa gift cards, which I give out every year during Christmas to help those who are in need. If you know anyone going through difficult times who could benefit from one of these cards, reach out to me with their name and mailing address, and I will anonymously send them a gift card that reads something like, “Merry Christmas! Somebody you know thought about you this year. Here’s a $100 Visa gift card—hope you can spend it!” The first five people who request a card will get one, and once they’re gone, they’re gone, so act fast!*
 
 So, do solar panels add value to a house?
 
@@ -29,9 +29,9 @@ Well, normally, **solar panels on a single-family house cost somewhere between $
 
 **There are other ways you can structure your solar deal, however:**
 
-1. Leased solar panels. You can lease solar panels from solar companies. Usually, the lease lasts somewhere around 20 years, toward which you’ll make a payment each month. Some buyers dislike this option, since they won’t likely want to be obligated to make a monthly lease payment.
+**1. Leased solar panels.** You can lease solar panels from solar companies. Usually, the lease lasts somewhere around 20 years, toward which you’ll make a payment each month. Some buyers dislike this option, since they won’t likely want to be obligated to make a monthly lease payment.
 
-2. Power purchase agreement. If you’re using electricity, all you’ll do is let the company install solar panels on your roof, and instead of buying electricity from the utility company, you just buy it from the solar company at a lesser rate; this can often amount to 50% savings right off the bat. This arrangement also comes at zero money down, though they do usually have a long-term agreement of 20 to 30 years. At the end of that lease period, they’ll sometimes just give you the panels, or else they’ll take them off and install new ones. This is definitely the better arrangement of the two.
+**2. Power purchase agreement.** If you’re using electricity, all you’ll do is let the company install solar panels on your roof, and instead of buying electricity from the utility company, you just buy it from the solar company at a lesser rate; this can often amount to 50% savings right off the bat. This arrangement also comes at zero money down, though they do usually have a long-term agreement of 20 to 30 years. At the end of that lease period, they’ll sometimes just give you the panels, or else they’ll take them off and install new ones. This is definitely the better arrangement of the two.
 
 One pitfall to watch for when you put solar panels on your roof is an **escalating rate clause.** A lot of times, these solar companies will give you a really good rate in the beginning of your lease (for the first few years), after which, they’ll increase that rate every single year. You might save a lot in the beginning, but you may not be by the end of the agreement. Buyers will also likely heavily scrutinize whatever contract you’ve signed, so do your best to negotiate a fixed payment for the length of the contract.
 
