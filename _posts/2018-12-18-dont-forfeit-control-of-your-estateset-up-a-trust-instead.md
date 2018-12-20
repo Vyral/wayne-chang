@@ -21,7 +21,7 @@ youtube_code: qMtd4nGIOw8
 
 For many people, their home is the most valuable asset they will own in their lifetime. With that being the case, it’s obviously important for this asset to be protected.
 
-A lot of homeowners will simply have their home in their name and their name alone, but this isn’t a particularly secure option. No one wants to consider the worst-case scenario, but homeowners must think about what will happen to their property if they become incapacitated or pass away. If you don’t put a plan in place for what will happen to your home if either of these events transpires, your property will become tied up in probate court.
+A lot of homeowners will simply have their home in their name and their name alone, but this isn’t a particularly secure option. No one wants to consider the worst-case scenario, but homeowners must think about what will happen to their property if they become incapacitated or pass away. If you don’t put a plan in place for what will happen to your home if either of these events were to transpire, your property will become tied up in probate court.
 
 {% include pullquote.html %}
 
