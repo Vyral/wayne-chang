@@ -25,13 +25,13 @@ Before I got into real estate, I thought termites came in swarms and devoured ho
 
 If your home is 10 or more years old and your termite inspector isn’t finding any termites, you need a new termite inspector. **Out of the 500 transactions I’ve done in the last eight or nine years, only two were termite free.** Either way, termites are a treatable problem—common techniques for removal include localized poison injections or tenting the house.
 
+{% include pullquote.html %}
+
 **Asbestos**
 
 Contrary to popular belief, asbestos is legal to use today. The government created some restrictions in the 1970s to slow down the amount of asbestos being used, but it still exists and is still used. However, most new construction does not use asbestos (mainly due to the stigma attached).
 
 Homes built during or prior to the 1970s usually have asbestos in popcorn ceilings, insulation, and HVAC ducts. Fortunately, **as long as the asbestos is not compromised, its usage in homes is safe.** The only way to know if your property has asbestos is to have it tested.
-
-{% include pullquote.html %}
 
 **Mold**
 
