@@ -17,9 +17,9 @@ youtube_code: 60_4M0Enhcc
 
 {% include youtube.html %}
 
-**Termites. Asbestos. Mold.** What do these three things have in common? If your buyer hears any of these words, **they’ll go berserk!** Fortunately for buyers and sellers alike, it turns out these issues are actually not that big of a deal. Today we’ll be discussing why buyers don’t need to flip their lid about any of these issues during escrow.
+**Termites, asbestos, mold:** What do these three things have in common? If your buyer hears any of these words, **they’ll go berserk!** Fortunately for buyers and sellers alike, it turns out these issues are actually not that big of a deal. Today we’ll be discussing why buyers don’t need to flip their lid about any of these issues during escrow.
 
-**Termites**
+<u><strong>Termites:</strong></u>
 
 Before I got into real estate, I thought termites came in swarms and devoured homes almost instantaneously (thanks, cartoons). In reality, this isn’t the case—they eat your house very slowly. And because California is the perfect environment for these wood-eating fellows, pretty much every home more than 10 years old has termites.&nbsp;
 
@@ -27,13 +27,13 @@ If your home is 10 or more years old and your termite inspector isn’t finding 
 
 {% include pullquote.html %}
 
-**Asbestos**
+<u><strong>Asbestos:</strong></u>
 
 Contrary to popular belief, asbestos is legal to use today. The government created some restrictions in the 1970s to slow down the amount of asbestos being used, but it still exists and is still used. However, most new construction does not use asbestos (mainly due to the stigma attached).
 
 Homes built during or prior to the 1970s usually have asbestos in popcorn ceilings, insulation, and HVAC ducts. Fortunately, **as long as the asbestos is not compromised, its usage in homes is safe.** The only way to know if your property has asbestos is to have it tested.
 
-**Mold**
+<u><strong>Mold:</strong></u>
 
 People hate to think about mold, but guess what? It’s everywhere! You’re probably breathing in thousands of mold spores every single day—99.9% of mold is not dangerous. When you test the inside versus the outside for mold counts, the number is most likely the same. The only way to know the specific kind of mold in your home is to have a professional test it.
 
