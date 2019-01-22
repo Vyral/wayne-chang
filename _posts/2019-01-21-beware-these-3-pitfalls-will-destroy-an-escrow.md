@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Beware: These 3 Pitfalls Will Destroy an Escrow'
-date: 2019-01-21 15:39:55
+date: 2019-01-21 15:39:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Nothing’s worse than going back to square one in a home sale. Thankfully,
   there are ways to ensure you won’t have to.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wayne+Chang/South+Orange+County+Real+Estate-+Beware-+These+3+Pitfalls+Will+Destroy+an+Escrow.mp4
 pullquote: >-
   Be wary of some lenders—major banks can offer low interest rates but give very
   poor service.
