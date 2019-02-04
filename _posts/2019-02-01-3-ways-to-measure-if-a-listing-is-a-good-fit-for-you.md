@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 3 Ways to Measure if a Listing is a Good Fit For You
-date: 2019-02-01 21:49:16
+title: 3 Ways to Measure if a Listing Is a Good Fit for You
+date: 2019-02-01 21:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -31,8 +31,8 @@ Now that we’ve covered that special announcement, let’s move on to the three
 
 **1. The nearby neighbors.** The people living in close proximity to your home can make or break the experience of living there.&nbsp;
 
-**2. The neighborhood demographic.** A mismatched neighborhood culture can make for an uncomfortable homeownership experience. Some buyers prefer a neighborhood with plenty of families, while others would prefer to live in an area with no children at all. It’s best.
+**2. The neighborhood demographic.** A mismatched neighborhood culture can make for an uncomfortable homeownership experience. Some buyers prefer a neighborhood with plenty of families, while others would prefer to live in an area with no children at all. It's best to scope out a neighborhood later during the afternoon to get a sense of its demographics.
 
-**3. The neighborhood’s homeowners association.** If the neighborhood is within a homeowners association (or HOA) you need to be aware of what rules, regulations, and fees that would come along with living there. Some HOAs will issue a citation for having a dirty garage window, while others will do virtually nothing to keep a neighborhood in good shape. It’s essential to know what you’re getting yourself into before making the decision to buy.&nbsp;
+**3. The neighborhood’s homeowners association.** If the neighborhood is within a homeowners association (or HOA), you need to be aware of what rules, regulations, and fees would come along with living there. Some HOAs will issue a citation for having a dirty garage window, while others will do virtually nothing to keep a neighborhood in good shape. It’s essential to know what you’re getting yourself into before making the decision to buy.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
