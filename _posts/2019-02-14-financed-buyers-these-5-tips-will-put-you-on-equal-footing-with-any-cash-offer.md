@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'Financed Buyers: These 5 Tips Will Put You on Equal Footing to Any Cash Offer'
-date: 2019-02-14 21:38:17
+title: >-
+  Financed Buyers: These 5 Tips Will Put You on Equal Footing With Any Cash
+  Offer
+date: 2019-02-14 21:38:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -27,7 +29,7 @@ There are five things you can do as a buyer to make your financed offer equal to
 
 **1. Get fully pre-approved.** The reason many financed buyers lose against buyers offering cash is that sellers are trying to minimize potential risk. Unless a financed buyer is fully pre-approved, the seller may worry that they won’t be able to afford the home when all is said and done. Getting approved by a lender will put the seller’s mind at ease and will put you on equal footing with any competing cash offers.&nbsp;
 
-**2. Remove the appraisal contingency.** If you submit a down payment that’s greater than 20%, there’s no real reason to retain the appraisal contingency. Better still, after removing this contingency, then your financed offer becomes virtually the same as an offer made in cash.&nbsp;
+**2. Remove the appraisal contingency.** If you submit a down payment that’s greater than 20%, there’s no real reason to retain the appraisal contingency. Better still, after removing this contingency, your financed offer becomes virtually the same as an offer made in cash.&nbsp;
 
 {% include pullquote.html %}
 
