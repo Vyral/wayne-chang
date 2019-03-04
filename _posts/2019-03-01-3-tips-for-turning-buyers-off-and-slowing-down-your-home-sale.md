@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Turning Buyers Off and Slowing Down Your Home Sale
-date: 2019-03-01 14:38:19
+date: 2019-03-01 14:38:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/wayne-chang-ss-10-25-email.jpg
-youtube_code: sgMGKZyB43I
+youtube_code: 2CBc2yNdcBs
 ---
 
 {% include youtube.html %}
 
 Here is a quick list of things you should definitely do if you want to sell your home for a bad price and take forever doing it:
 
-**1. Presentation.** If you want your home to sell slowly and repel plenty of buyers in the process, make sure to keep your home messy. Leave dishes in the sink, have laundry scattered everywhere, leave your kids’ toys out, cook something with a strong smell to permeate the entire house, and have a noisy pet in the home. Most buyers, when they see these things, will spend about 30 seconds in the home before turning around and leaving.
+**1. Neglect its presentation.**&nbsp;If you want your home to sell slowly and repel plenty of buyers in the process, make sure to keep your home messy. Leave dishes in the sink, have laundry scattered everywhere, leave your kids’ toys out, cook something with a strong smell that permeates the entire house, and have a noisy pet in the home. Most buyers, when they see these things, will spend about 30 seconds in the home before turning around and leaving.
 
 {% include pullquote.html %}
 
