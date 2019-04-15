@@ -27,7 +27,7 @@ There are three things you need to consider when investing in real estate:
 
 {% include pullquote.html %}
 
-**2\. Know the criteria of what you’re looking for.** Be very specific; you need to look at pretty much everything. You need to consider commercial properties, residential properties, land, and much more. If you want a single-family home with three bedrooms, a two-car garage, and nearby grocery stores, you’ll be able to narrow down your search. When you find a home that meets your criteria, you’re ready to pull the trigger immediately.
+**2\. Know the criteria of what you’re looking for.** Be very specific in your search otherwise you’ll spend too much time looking at everything and go into analysis paralysis. &nbsp;Rather than say “I’m looking for a deal”, you want to be able to say “I’m looking for a 3 bedroom single family home with a two car garage that rents out for $3,000 per month.” This way when you find a home that meets your criteria, you’re ready to pull the trigger immediately.
 
 **3\. There are two types of investing.** You can buy a property, fix it up, and sell it. Or you can buy a property and make money long-term from renting it out. If you’re going to be a landlord, be ready to acquire an understanding of landlord-tenant law. A lot of first-time landlords are unfamiliar with the many laws involved, so it’s important to know what you’ll be dealing with. If you don’t have time to learn all the laws, hire a property management company to deal with it for you.
 
