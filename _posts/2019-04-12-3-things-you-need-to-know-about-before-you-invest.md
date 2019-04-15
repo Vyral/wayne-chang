@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things You Need to Know About Before You Invest
-date: 2019-04-12 13:51:08
+date: 2019-04-12 13:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/3-things-email.jpg
-youtube_code: fv-seHAuVWM
+youtube_code: QRl7TWh39KU
 ---
 
 {% include youtube.html %}
