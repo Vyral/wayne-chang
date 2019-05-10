@@ -25,11 +25,11 @@ When it comes time to buy a home, it’s important that you keep your future in 
 
 **With this in mind, there are three kinds of properties you should steer clear of during your home search:&nbsp;**
 
-**1\. Homes near a busy street.** Not only can living in these properties be loud, it can also be dangerous for those with pets or small children. Even if this doesn’t bother you, it very well could be an issue for future buyers when you decide to move on.&nbsp;
+**1\. Homes near a busy street.** Not only can living in these properties be loud, but it can also be dangerous for those with pets or small children. Even if this doesn’t bother you, it very well could be an issue for future buyers when you decide to move on.&nbsp;
 
 {% include pullquote.html %}
 
-**2\. Properties with high HOA dues.** Homeownership is expensive enough as it is without pricey Homeowners Association dues. Unless these dues go toward something that is truly worth the value, you’re best off leaving such properties off the menu during your home search.&nbsp;
+**2\. Properties with high HOA dues.** Homeownership is expensive enough as it is without pricey homeowners association dues. Unless these dues go toward something that is truly worth the value, you’re best off leaving such properties off the menu during your home search.&nbsp;
 
 **3\. Super-expensive properties.** Buying a home that is noticeably larger or more upgraded than the others in its area may make it difficult for you to sell down the line. If you’re looking for a higher-end home, you need to look in high-end neighborhoods.&nbsp;
 
