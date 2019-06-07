@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the 3 Most Common Home-Selling Myths?
-date: 2019-06-07 14:10:11
+date: 2019-06-07 14:10:00
 tags:
   - Home Seller Tips
 excerpt: >-
