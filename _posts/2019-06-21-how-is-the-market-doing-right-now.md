@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the Market Doing Right Now?
-date: 2019-06-21 17:30:38
+date: 2019-06-21 17:30:00
 tags:
   - Market Update
   - Real Estate
