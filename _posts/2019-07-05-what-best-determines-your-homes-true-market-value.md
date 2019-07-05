@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Best Determines Your Home’s True Market Value
-date: 2019-07-05 13:48:04
+date: 2019-07-05 13:48:00
 tags:
   - Real Estate
 excerpt: >-
