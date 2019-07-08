@@ -30,7 +30,7 @@ Before I answer that question, let’s first discuss three common sources homeow
 
 **2\. Other active listings.** Many homeowners see their neighbor’s listing and wrongly assume they should price theirs in a similar fashion. This can be a problematic approach if that neighbor’s property has sat on the market for an extended period of time.&nbsp;
 
-**3\. The Zestimate.** This is Zillow’s popular home valuation tool. It’s so popular, in fact, that almost every seller I meet is quick to cite their Zestimate when we’re talking about pricing. However, not only has Zillow never set foot in your property, but their national median error rate is around 9%, which could mean your Zestimate is tens of thousands of dollars above or below your home’s true value. For higher-priced homes in Southern California, research has found Zillow’s error rate to be even more inaccurate.&nbsp;
+**3\. The Zestimate.** This is Zillow’s popular home valuation tool. It’s so popular, in fact, that almost every seller I meet is quick to cite their Zestimate when we’re talking about pricing. However, not only has Zillow never set foot on your property, but their national median error rate is around 9%, which could mean your Zestimate is tens of thousands of dollars above or below your home’s true value. For higher-priced homes in Southern California, research has found Zillow’s error rate to be even more inaccurate.&nbsp;
 
 {% include pullquote.html %}
 
