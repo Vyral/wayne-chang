@@ -19,13 +19,11 @@ youtube_code: 'https://youtu.be/djCgoA6xGf0'
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What home design trends are currently hot in our 2019 real estate market? Find out today.</em></p>
+*What home design trends are currently hot in our 2019 real estate market? Find out today.*
 
 Design trends change every year, and it’s no different in real estate. But which home designs are en vogue this year? Which ones aren’t? Today I’ll walk you through what’s currently hot in the market—and what’s not.
 
 First, let’s talk about **the design trends from prior decades that have since fallen out of style:**
-
-&nbsp;
 
 * From the 70s: Popcorn ceilings, sunken living room conversation pits
 * From the 80s: Wet bars (just turn that bar area into a workstation or countertop)
