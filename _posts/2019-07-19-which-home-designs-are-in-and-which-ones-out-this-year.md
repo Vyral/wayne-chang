@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/djCgoA6xGf0'
 
 {% include youtube.html %}
 
-*What home design trends are currently hot in our 2019 real estate market? Find out today.*
+<p style="text-align:center;"><em>What home design trends are currently hot in our 2019 real estate market? Find out today.</em></p>
 
 Design trends change every year, and it’s no different in real estate. But which home designs are en vogue this year? Which ones aren’t? Today I’ll walk you through what’s currently hot in the market—and what’s not.
 
