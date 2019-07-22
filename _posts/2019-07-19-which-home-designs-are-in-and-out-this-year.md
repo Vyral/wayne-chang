@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Home Designs Are In (And Which Ones Out) This Year?
+title: Which Home Designs Are in (And Out) This Year?
 date: 2019-07-19 14:30:00
 tags:
   - Real Estate
@@ -9,17 +9,17 @@ excerpt: >-
   out today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/Laguna+Niguel+Real+Estate-+Design+Trends.mp4
-pullquote: 'Believe it or not, contemporary wallpaper-styles are in this year.'
+pullquote: 'Believe it or not, contemporary wallpaper styles are in this year.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/7-18---wayne-chang---youtube.jpg
 youtube_code: 'https://youtu.be/djCgoA6xGf0'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What home design trends are currently hot in our 2019 real estate market? Find out today.</em></p>
+*What home design trends are currently hot in our 2019 real estate market? Find out today.*
 
 Design trends change every year, and it’s no different in real estate. But which home designs are en vogue this year? Which ones aren’t? Today I’ll walk you through what’s currently hot in the market—and what’s not.
 
