@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenants and Landlords: Beware These Rental Scams'
-date: 2019-08-02 15:27:11
+date: 2019-08-02 15:27:00
 tags:
   - Real Estate
 excerpt: >-
