@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-2---wayne-chang---youtube.jpg
-youtube_code: 'https://youtu.be/0z0vX3VUzRQ'
+youtube_code: 'https://youtu.be/BzgEUkz-DJU'
 ---
 
 {% include youtube.html %}
@@ -24,7 +24,7 @@ Anyone can fall victim to these scams if they aren’t careful. In fact, I once 
 
 Unfortunately, I had to inform this person they had been the target of a scam. **Scammers will often take legitimate listings, that may or may not be currently available, and place fake advertisements for them on websites like Craigslist**—usually at a vastly diminished price. Then, once they trick people into paying a deposit, they take the money and vanish.&nbsp;
 
-To avoid these kinds of scams, renters are far better of looking to reputable websites like Zillow, Rent.com, HotPads, and Trulia, which actually pull from the MLS.&nbsp;
+To avoid these kinds of scams, renters are far better off looking to reputable websites like Zillow, Rent.com, HotPads, and Trulia, which actually pull from the MLS.&nbsp;
 
 {% include pullquote.html %}
 
