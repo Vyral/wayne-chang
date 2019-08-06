@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-2---wayne-chang---youtube.jpg
-youtube_code: 'https://youtu.be/BzgEUkz-DJU'
+youtube_code: 'https://youtu.be/T6_fVdLQ09U'
 ---
 
 {% include youtube.html %}
