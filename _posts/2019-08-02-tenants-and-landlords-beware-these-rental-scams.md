@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Landlords and tenants alike should be wary of rental scams, and today I’ll
   share a few tips on how to stay safe.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/Tenants+and+Landlords-+Beware+These+Rental+Scams.mp4
 pullquote: Anyone can fall victim to these scams if they aren’t careful.
 enclosure_type: video/mp4
 enclosure_time:
