@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Sell or Not to Sell During Fall and Winter
-date: 2019-08-16 13:52:29
+date: 2019-08-16 13:52:00
 tags:
   - Home Seller Tips
 excerpt: >-
