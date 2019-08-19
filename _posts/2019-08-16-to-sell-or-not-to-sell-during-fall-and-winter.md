@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-15---wayne-chang---youtube.jpg
-youtube_code: 'https://youtu.be/ZcZe2iklje0'
+youtube_code: kkoq33N59-0
 ---
 
 {% include youtube.html %}
@@ -34,6 +34,6 @@ In other words, if you sell during spring, you’ll get a much higher percentage
 
 **So should you sell during the colder months? That depends on what your goals are.&nbsp;**
 
-If you have to undergo a job relocation during fall or winter or have to move due to some kind of life change you can’t avoid, then you have no choice in the matter. If you have to buy and sell at the same time, it doesn’t really matter either because you’re making a lateral move— if the market is high, you have to buy and sell high. If you can afford to wait until February or March of the following year, though, you’ll typically get a better price.&nbsp;
+If you have to undergo a job relocation during fall or winter or have to move due to some kind of life change you can’t avoid, then you have no choice in the matter. If you have to buy and sell at the same time, it doesn’t really matter either because you’re making a lateral move—if the market is high, you have to buy and sell high. If you can afford to wait until February or March of the following year, though, you’ll typically get a better price.&nbsp;
 
 If you have any questions about this topic or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
