@@ -22,18 +22,18 @@ youtube_code: kkoq33N59-0
 
 Around this time of year, it’s common for homeowners to receive brochures and mailers from local agents telling them why the fall and winter season is great for selling. Is that true, though?
 
-I have a couple graphs to show you in the video above that will reveal the answer. The first one, starting at the 1:00 mark, shows the active listing inventory for each month dating all the way back to 2016. As you can see, summertime is when inventory peaks, and then it drops toward the end of the year.&nbsp;
+I have some detailed analysis to reveal to you in the video. The first one, starting at the 1:00 mark, shows the active listing inventory for each month dating all the way back to 2016. As you can see, summer time is when inventory peaks, and then it drops toward the end of the year.
 
-**Some agents claim this lack of inventory means you’ll face less competition from other sellers and get a better price, but that’s not true**, and if you look at the second graph at 1:47, you’ll see why. This one shows the number of homes that go into escrow during the same time period, and springtime is when most of them do. Specifically, 50% of all listings go into escrow during spring, followed by 40% during summer, and 30% to 35% during winter.
+**Some agents claim this lack of inventory means you’ll face less competition from other sellers and get a better price, but that’s not true,** and if you look at the second graph at 1:47, you’ll see why. This one shows the number of homes that go into escrow during the same time period, and springtime is when most of them do. Specifically, 50% of all listings go into escrow during spring, followed by 40% during summer, and 30% to 35% during winter.
 
 {% include pullquote.html %}
 
-In the last graph at 2:35, you’ll see the average list-to-sale price ratio for these homes. For every single year dating all the way back to 2016, the highest ratio occurs in spring and then drops to its low point near the end of the year.&nbsp;
+In the last graph at 2:35, you’ll see the average list-to-sale price ratio for these homes. For every single year dating all the way back to 2016, the highest ratio occurs in spring and then drops to its low point near the end of the year.
 
-In other words, if you sell during spring, you’ll get a much higher percentage of your original list price than if you sell during the fall and winter.&nbsp;
+In other words, if you sell during spring, you’ll get a much higher percentage of your original list price than if you sell during the fall and winter.
 
-**So should you sell during the colder months? That depends on what your goals are.&nbsp;**
+**So should you sell during the colder months? That depends on what your goals are.**
 
-If you have to undergo a job relocation during fall or winter or have to move due to some kind of life change you can’t avoid, then you have no choice in the matter. If you have to buy and sell at the same time, it doesn’t really matter either because you’re making a lateral move—if the market is high, you have to buy and sell high. If you can afford to wait until February or March of the following year, though, you’ll typically get a better price.&nbsp;
+If you have to undergo a job relocation during fall or winter or have to move due to some kind of life change you can’t avoid, then you have no choice in the matter. If you have to buy and sell at the same time, it doesn’t really matter either because you’re making a lateral move—if the market is high, you have to buy and sell high. If you can afford to wait until February or March of the following year, though, you’ll typically get a better price.
 
 If you have any questions about this topic or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
