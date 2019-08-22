@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s not true that you’ll automatically sell for a higher price during fall
   and winter just because there’s less inventory.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/To+Sell+or+Not+to+Sell+During+Fall+and+Winter.mp4
 pullquote: >-
   If you sell during spring, you’ll get a much higher percentage of your
   original list price than if you sell during the fall and winter.
