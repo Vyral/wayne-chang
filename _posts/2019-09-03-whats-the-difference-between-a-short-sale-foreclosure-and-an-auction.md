@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What’s the Difference Between a Short Sale, Foreclosure, and an Auction?'
-date: 2019-09-03 16:49:46
+date: 2019-09-03 16:49:00
 tags:
   - Real Estate
 excerpt: >-
