@@ -20,7 +20,7 @@ youtube_code: 45h7UtVwii0
 
 What’s the difference between a short sale, foreclosure, and an auction?
 
-Let’s start with defining the short sale. **In this case, the owner of the home is still on title,** meaning they still own the property and sign the purchase contract and all other legal documents involved with the home sale. However, the bank has to approve the price and conditions of the sale because the bank is being sold short of the mortgage balance they owe.&nbsp;
+Let’s start with defining the short sale. **In this case, the owner of the home is still on the title,** meaning they still own the property and sign the purchase contract and all other legal documents involved with the home sale. However, the bank has to approve the price and conditions of the sale because the bank is being sold short of the mortgage balance they owe.&nbsp;
 
 To clarify, this doesn’t mean the process is any shorter; it just means the sale price of the home is short of the amount of money the homeowner owes on the property. You can purchase a short-sale house with cash or financing, and your agent can write a regular purchase contract for it with standard legal forms.&nbsp;
 
