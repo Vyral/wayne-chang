@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s the difference between a short sale, foreclosure, and an auction? Find
   out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/Whats+the+Difference+Between+a+Short+Sale%2C+Foreclosure%2C+and+an+Auction_.mp4
 pullquote: There’s no due diligence process during auction purchases.
 enclosure_type: video/mp4
 enclosure_time:
