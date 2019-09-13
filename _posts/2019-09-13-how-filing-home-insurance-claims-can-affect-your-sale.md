@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Filing Home Insurance Claims Can Affect Your Sale
-date: 2019-09-13 14:39:19
+date: 2019-09-13 14:39:00
 tags:
   - Real Estate
 excerpt: >-
