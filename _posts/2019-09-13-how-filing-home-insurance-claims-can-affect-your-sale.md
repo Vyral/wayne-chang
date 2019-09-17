@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-12---wayne-chang---youtube.jpg
-youtube_code: 'https://youtu.be/V8b78NNtlEg'
+youtube_code: CmWeWLev5a8
 ---
 
 {% include youtube.html %}
