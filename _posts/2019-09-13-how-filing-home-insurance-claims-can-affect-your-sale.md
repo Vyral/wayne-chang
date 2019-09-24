@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Filing too many insurance claims on your property can endanger your future
   home sale and today’s story is a case in point.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/How+Filing+Home+Insurance+Claims+Can+Affect+Your+Sale.mp4
 pullquote: >-
   My best advice is to do a cost-benefit analysis before making a claim on your
   property, especially if you’re selling anytime soon.
