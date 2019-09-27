@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Millennial Home Buying Trends Sellers Should Be Aware of
-date: 2019-09-27 14:09:49
+date: 2019-09-27 14:09:00
 tags:
   - Home Seller Tips
 excerpt: >-
