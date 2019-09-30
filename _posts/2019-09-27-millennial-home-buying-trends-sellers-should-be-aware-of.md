@@ -28,7 +28,7 @@ Second, **they’re very cost-conscious.** Many of them are buying homes for the
 
 {% include pullquote.html %}
 
-**Many millennials also follow what I call “HGTV culture.”** In other words, they grew up watching HGTV, and for them, that’s their only exposure to real estate. HGTV shows like “Fix or Flop” or “House Hunters” tend to make it seem like it’s normal to buy a house in 100% turnkey condition. Either that, or it’s a “gut job.” As a result, that’s what they sometimes expect.&nbsp;
+**Many millennials also follow what I call “HGTV culture.”** In other words, they grew up watching HGTV, and for them, that’s their only exposure to real estate. HGTV shows like “Flip or Flop” or “House Hunters” tend to make it seem like it’s normal to buy a house in 100% turnkey condition. Either that, or it’s a “gut job.” As a result, that’s what they sometimes expect.&nbsp;
 
 I’ve shown plenty of houses to millennials. About 10 to 15 years ago, the hottest home design trends included items like dark-wood floors, dark cabinets, and granite countertops. Homes with these features aren’t necessarily “updated” anymore, but they’re still turnkey. More often than not, though, millennials will enter a home with these features and consider it a gut job.&nbsp;
 
