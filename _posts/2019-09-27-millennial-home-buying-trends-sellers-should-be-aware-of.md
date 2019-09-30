@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/oO6aOEodtTw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are a few significant ways millennials are affecting our real estate market.</em></p>
+
 As more and more millennials enter the prime home buying age range, here are a few trends from this demographic that are impacting the market in a big way.&nbsp;
 
 First, **millennials tend to be independent when starting their home search.** They prefer to look at and research homes online before contacting an agent or seeing them in person. This means if you’re putting your home on the market, its listing profile needs to be on all the major real estate websites (Realtor.com, Trulia, Zillow, etc.) and you need to provide as much information about it as possible.
