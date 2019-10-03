@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are a few significant ways millennials are affecting our real estate
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Wayne+Chang/Millennial+Home+Buying+Trends+Sellers+Should+Be+Aware+of.mp4
 pullquote: >-
   Millennial buyers may not be willing to pay for the upgrades you added to your
   home a decade or more ago.
@@ -20,7 +21,7 @@ youtube_code: 'https://youtu.be/oO6aOEodtTw'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are a few significant ways millennials are affecting our real estate market.</em></p>
+*Here are a few significant ways millennials are affecting our real estate market.*
 
 As more and more millennials enter the prime home buying age range, here are a few trends from this demographic that are impacting the market in a big way.&nbsp;
 
