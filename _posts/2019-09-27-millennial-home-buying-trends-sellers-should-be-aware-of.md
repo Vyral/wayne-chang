@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/oO6aOEodtTw'
 
 {% include youtube.html %}
 
-*Here are a few significant ways millennials are affecting our real estate market.*
+<p style="text-align: center;"><em>Here are a few significant ways millennials are affecting our real estate market.</em></p>
 
 As more and more millennials enter the prime home buying age range, here are a few trends from this demographic that are impacting the market in a big way.&nbsp;
 
