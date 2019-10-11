@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Top 3 Strangest Real Estate Experiences
-date: 2019-10-11 14:51:18
+date: 2019-10-11 14:51:00
 tags:
   - Real Estate
 excerpt: >-
