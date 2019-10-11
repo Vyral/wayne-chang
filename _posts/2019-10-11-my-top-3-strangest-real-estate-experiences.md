@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/6axcDJI637w'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These are the top three craziest real estate experiences that I’ve had in my career.</em></p>
+
 Over my career in real estate, I’ve seen a lot of unusual things. To show you just what kinds of things can happen in a transaction, today I want to share the top three craziest experiences I’ve had in the industry.
 
 **Story \#1: Where’s the Rest of the House?**
