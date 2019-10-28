@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Things Buyers Don’t Want to See in Your Home
-date: 2019-10-28 16:36:41
+date: 2019-10-28 16:36:00
 tags:
   - Home Seller Tips
 excerpt: >-
