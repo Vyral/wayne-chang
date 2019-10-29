@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wayne-chang-what-buyers-hate-to-see-youtube.png
-youtube_code: 'https://youtu.be/qU93y9BwjmM'
+youtube_code: 'https://youtu.be/sy9zRyy5YXM'
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Are you trying to sell your home? If so, make sure buyers don’t see any of these five things in your listing.</em></p>
 
-Although people’s personal tastes as far as home features go can vastly vary, there are certain universal turn-offs that no buyers will want to see in your home. So, if you’ve got a property you’re trying to sell, make sure it doesn’t have any of these five things:&nbsp;
+Although people’s personal tastes in home features can vary vastly, there are certain universal turn-offs that no buyers will want to see in your home. So, if you’ve got a property you’re trying to sell, make sure it doesn’t have any of these five things:&nbsp;
 
 **1\. Carpeted bathrooms.** If any of the homes in your bathroom have carpet, it’s time to get rid of it. Even inexpensive vinyl tiling is a far superior choice when it comes to bathroom flooring, so fixing this unsightly faux pas doesn’t have to break the bank.&nbsp;
 
